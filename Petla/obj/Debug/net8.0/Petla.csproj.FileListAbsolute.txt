@@ -1,0 +1,14 @@
+C:\Users\onkju\Desktop\C# 1\Petla\bin\Debug\net8.0\Petla.exe
+C:\Users\onkju\Desktop\C# 1\Petla\bin\Debug\net8.0\Petla.deps.json
+C:\Users\onkju\Desktop\C# 1\Petla\bin\Debug\net8.0\Petla.runtimeconfig.json
+C:\Users\onkju\Desktop\C# 1\Petla\bin\Debug\net8.0\Petla.dll
+C:\Users\onkju\Desktop\C# 1\Petla\bin\Debug\net8.0\Petla.pdb
+C:\Users\onkju\Desktop\C# 1\Petla\obj\Debug\net8.0\Petla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onkju\Desktop\C# 1\Petla\obj\Debug\net8.0\Petla.AssemblyInfoInputs.cache
+C:\Users\onkju\Desktop\C# 1\Petla\obj\Debug\net8.0\Petla.AssemblyInfo.cs
+C:\Users\onkju\Desktop\C# 1\Petla\obj\Debug\net8.0\Petla.csproj.CoreCompileInputs.cache
+C:\Users\onkju\Desktop\C# 1\Petla\obj\Debug\net8.0\Petla.dll
+C:\Users\onkju\Desktop\C# 1\Petla\obj\Debug\net8.0\refint\Petla.dll
+C:\Users\onkju\Desktop\C# 1\Petla\obj\Debug\net8.0\Petla.pdb
+C:\Users\onkju\Desktop\C# 1\Petla\obj\Debug\net8.0\Petla.genruntimeconfig.cache
+C:\Users\onkju\Desktop\C# 1\Petla\obj\Debug\net8.0\ref\Petla.dll

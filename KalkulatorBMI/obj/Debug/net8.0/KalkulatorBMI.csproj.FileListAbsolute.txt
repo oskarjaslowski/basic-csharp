@@ -1,0 +1,14 @@
+C:\Users\onkju\Desktop\C# 1\KalkulatorBMI\obj\Debug\net8.0\KalkulatorBMI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onkju\Desktop\C# 1\KalkulatorBMI\obj\Debug\net8.0\KalkulatorBMI.AssemblyInfoInputs.cache
+C:\Users\onkju\Desktop\C# 1\KalkulatorBMI\obj\Debug\net8.0\KalkulatorBMI.AssemblyInfo.cs
+C:\Users\onkju\Desktop\C# 1\KalkulatorBMI\obj\Debug\net8.0\KalkulatorBMI.csproj.CoreCompileInputs.cache
+C:\Users\onkju\Desktop\C# 1\KalkulatorBMI\bin\Debug\net8.0\KalkulatorBMI.exe
+C:\Users\onkju\Desktop\C# 1\KalkulatorBMI\bin\Debug\net8.0\KalkulatorBMI.deps.json
+C:\Users\onkju\Desktop\C# 1\KalkulatorBMI\bin\Debug\net8.0\KalkulatorBMI.runtimeconfig.json
+C:\Users\onkju\Desktop\C# 1\KalkulatorBMI\bin\Debug\net8.0\KalkulatorBMI.dll
+C:\Users\onkju\Desktop\C# 1\KalkulatorBMI\bin\Debug\net8.0\KalkulatorBMI.pdb
+C:\Users\onkju\Desktop\C# 1\KalkulatorBMI\obj\Debug\net8.0\KalkulatorBMI.dll
+C:\Users\onkju\Desktop\C# 1\KalkulatorBMI\obj\Debug\net8.0\refint\KalkulatorBMI.dll
+C:\Users\onkju\Desktop\C# 1\KalkulatorBMI\obj\Debug\net8.0\KalkulatorBMI.pdb
+C:\Users\onkju\Desktop\C# 1\KalkulatorBMI\obj\Debug\net8.0\KalkulatorBMI.genruntimeconfig.cache
+C:\Users\onkju\Desktop\C# 1\KalkulatorBMI\obj\Debug\net8.0\ref\KalkulatorBMI.dll

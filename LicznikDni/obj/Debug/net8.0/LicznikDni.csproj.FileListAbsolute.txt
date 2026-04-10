@@ -1,0 +1,14 @@
+C:\Users\onkju\Desktop\C# 1\LicznikDni\bin\Debug\net8.0\LicznikDni.exe
+C:\Users\onkju\Desktop\C# 1\LicznikDni\bin\Debug\net8.0\LicznikDni.deps.json
+C:\Users\onkju\Desktop\C# 1\LicznikDni\bin\Debug\net8.0\LicznikDni.runtimeconfig.json
+C:\Users\onkju\Desktop\C# 1\LicznikDni\bin\Debug\net8.0\LicznikDni.dll
+C:\Users\onkju\Desktop\C# 1\LicznikDni\bin\Debug\net8.0\LicznikDni.pdb
+C:\Users\onkju\Desktop\C# 1\LicznikDni\obj\Debug\net8.0\LicznikDni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onkju\Desktop\C# 1\LicznikDni\obj\Debug\net8.0\LicznikDni.AssemblyInfoInputs.cache
+C:\Users\onkju\Desktop\C# 1\LicznikDni\obj\Debug\net8.0\LicznikDni.AssemblyInfo.cs
+C:\Users\onkju\Desktop\C# 1\LicznikDni\obj\Debug\net8.0\LicznikDni.csproj.CoreCompileInputs.cache
+C:\Users\onkju\Desktop\C# 1\LicznikDni\obj\Debug\net8.0\LicznikDni.dll
+C:\Users\onkju\Desktop\C# 1\LicznikDni\obj\Debug\net8.0\refint\LicznikDni.dll
+C:\Users\onkju\Desktop\C# 1\LicznikDni\obj\Debug\net8.0\LicznikDni.pdb
+C:\Users\onkju\Desktop\C# 1\LicznikDni\obj\Debug\net8.0\LicznikDni.genruntimeconfig.cache
+C:\Users\onkju\Desktop\C# 1\LicznikDni\obj\Debug\net8.0\ref\LicznikDni.dll
