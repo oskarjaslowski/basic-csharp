@@ -1,0 +1,14 @@
+C:\Users\onkju\Desktop\C# 1\ZadanieTestowe\bin\Debug\net8.0\ZadanieTestowe.exe
+C:\Users\onkju\Desktop\C# 1\ZadanieTestowe\bin\Debug\net8.0\ZadanieTestowe.deps.json
+C:\Users\onkju\Desktop\C# 1\ZadanieTestowe\bin\Debug\net8.0\ZadanieTestowe.runtimeconfig.json
+C:\Users\onkju\Desktop\C# 1\ZadanieTestowe\bin\Debug\net8.0\ZadanieTestowe.dll
+C:\Users\onkju\Desktop\C# 1\ZadanieTestowe\bin\Debug\net8.0\ZadanieTestowe.pdb
+C:\Users\onkju\Desktop\C# 1\ZadanieTestowe\obj\Debug\net8.0\ZadanieTestowe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onkju\Desktop\C# 1\ZadanieTestowe\obj\Debug\net8.0\ZadanieTestowe.AssemblyInfoInputs.cache
+C:\Users\onkju\Desktop\C# 1\ZadanieTestowe\obj\Debug\net8.0\ZadanieTestowe.AssemblyInfo.cs
+C:\Users\onkju\Desktop\C# 1\ZadanieTestowe\obj\Debug\net8.0\ZadanieTestowe.csproj.CoreCompileInputs.cache
+C:\Users\onkju\Desktop\C# 1\ZadanieTestowe\obj\Debug\net8.0\ZadanieTestowe.dll
+C:\Users\onkju\Desktop\C# 1\ZadanieTestowe\obj\Debug\net8.0\refint\ZadanieTestowe.dll
+C:\Users\onkju\Desktop\C# 1\ZadanieTestowe\obj\Debug\net8.0\ZadanieTestowe.pdb
+C:\Users\onkju\Desktop\C# 1\ZadanieTestowe\obj\Debug\net8.0\ZadanieTestowe.genruntimeconfig.cache
+C:\Users\onkju\Desktop\C# 1\ZadanieTestowe\obj\Debug\net8.0\ref\ZadanieTestowe.dll
